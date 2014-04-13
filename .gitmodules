@@ -1,0 +1,3 @@
+[submodule "mozilla-presentation-templates"]
+	path = mozilla-presentation-templates
+	url = git@github.com:codepo8/mozilla-presentation-templates.git
